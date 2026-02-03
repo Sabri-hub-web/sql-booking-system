@@ -2,7 +2,7 @@
 
 A web-based booking and database management system designed to structure, automate, and optimize client appointments and internal data workflows.
 
-## 📌 Project Overview
+##  Project Overview
 
 This project was developed during a professional internship to replace manual scheduling and fragmented spreadsheets with a centralized SQL-based system.
 
@@ -10,7 +10,7 @@ The goal was to improve data reliability, automate bookings, and streamline inte
 
 The solution connects a web interface to a structured SQL database, enabling real-time appointment management.
 
-## ⚙️ Features
+##  Features
 
 - Client and appointment database design
 - Data cleaning and structuring
@@ -19,7 +19,7 @@ The solution connects a web interface to a structured SQL database, enabling rea
 - Online booking system
 - Automated internal workflows
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - Python
 - SQL
@@ -27,21 +27,21 @@ The solution connects a web interface to a structured SQL database, enabling rea
 - Web application development
 - Data modeling
 
-## 📂 Project Structure
+##  Project Structure
 
 src/ → backend logic
 database/ → SQL schema & queries
 web/ → booking interface
 
 
-## 🚀 Results
+##  Results
 
 - Centralized all client data
 - Reduced manual errors
 - Automated appointment scheduling
 - Improved internal efficiency and workflow
 
-## 🎯 Learning Outcomes
+##  Learning Outcomes
 
 Through this project, I strengthened my skills in:
 - SQL database design
